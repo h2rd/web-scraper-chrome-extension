@@ -735,6 +735,10 @@ SitemapController.prototype = {
 					title: 'Text'
 				},
 				{
+					type: 'SelectorCurrentUrl',
+					title: 'Current page url'
+				},
+				{
 					type: 'SelectorLink',
 					title: 'Link'
 				},
